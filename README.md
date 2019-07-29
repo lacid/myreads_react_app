@@ -1,3 +1,5 @@
+- TODO: search and change shelves
+
 # MyReads Project
 
 This template saves time by providing a static example of the CSS and HTML markup that may be used, but without any of the React code that is needed to complete the project. Job is to add interactivity to the app by refactoring the static code in this template.
